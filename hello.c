@@ -7,5 +7,5 @@ int main(int argc, const char *argv[]) {
   printf("Valor de x: %d\n", x);
   printf("Endereço de memória de x: %p\n", &x);
   printf("Valor de p_x: %p\n", p_x);
-  printf("Endereço de memória de p_x  %d\n", *p_x);
+  printf("Endereço de memória de p_x: %d\n", *p_x);
 }
